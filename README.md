@@ -82,13 +82,13 @@ apt update && apt install git zip -y
 Clonați proiectul de pe GitHub sau îl puteți descărca accesând același link prin Browser:
 
 ```sh
-git clone --depth 1 -b v1.1 https://github.com/efiscal/servicii-si-produse.git ecc-sp
+git clone --depth 1 -b v1.1 https://github.com/efiscal/ecc-ts-atrptri.git ecc-ts
 ```
 
 ### 6. Accesare folder
 
 ```sh
-cd ecc-sp
+cd ecc-ts
 ```
 
 ### 7. Comenzi disponibile
