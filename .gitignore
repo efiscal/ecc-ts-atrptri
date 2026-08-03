@@ -1,3 +1,7 @@
 .idea
 .vscode
 .history
+bin/archive.sh
+ecc
+*.tar.gz
+*.tar.gz.zip
