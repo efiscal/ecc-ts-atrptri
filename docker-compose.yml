@@ -1,4 +1,4 @@
-name: "ecc-atrptri"
+name: "ecc-atrptri-v1.1"
 volumes:
   db:
   app:
